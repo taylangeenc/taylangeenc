@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/taylangeenc/count.svg?" />
+  <img src="https://profile-counter.glitch.me/taylangeenc/count.svg" />
 </div>
 
 ###
